@@ -19,7 +19,7 @@ Estou em busca de novos desafios, especificamente oportunidades **Remotas**, par
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Estudando / Projetos Pessoais:**
+**Estudando:**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -30,16 +30,16 @@ Estou em busca de novos desafios, especificamente oportunidades **Remotas**, par
 ### 💼 Experiência Real
 
 Atualmente, colaboro com o setor público modernizando processos e resolvendo chamados técnicos.
-- 🔭 **Estou trabalhando em:** [Cite algo genérico, ex: Manutenção de sistemas legados e automação de relatórios].
-- 🌱 **Estou aprendendo:** [Uma tecnologia moderna, ex: Arquitetura de Microsserviços ou Next.js].
+- 🔭 **Estou trabalhando em:** Teste e manutenção de sistemas, e automações de serviçoes
+- 🌱 **Estou aprendendo:** Java.
 - ⚡ **Curiosidade:** Trabalhar no setor público me ensinou a ter resiliência e a entender a "dor do usuário" na prática.
 
 ---
 
 ### 📬 Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marques-kauan/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](kauanmarques.jd@hotmail.com)
 
 ---
 
