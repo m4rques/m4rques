@@ -39,5 +39,5 @@ Atualmente, colaboro com o setor público modernizando processos e resolvendo ch
 ### 📬 Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marques-kauan/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](kauanmarques.jd@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](kauanmarques.jd@hotmail.com)
 
